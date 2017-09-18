@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1485814845 source:d:\gry i programy\c cpp\workspace codeblocks\moje æwiczenia\6. kalkulator z funkcjami i podzia³em na pliki\kalkulator_funkcje_podzial_plików\main.cpp
+	<iostream>
+	<conio.h>
+	"wczytaj_liczbe.h"
+
+1485814845 d:\gry i programy\c cpp\workspace codeblocks\moje æwiczenia\6. kalkulator z funkcjami i podzia³em na pliki\kalkulator_funkcje_podzial_plików\wczytaj_liczbe.h
+
+1485814931 source:d:\gry i programy\c cpp\workspace codeblocks\moje æwiczenia\6. kalkulator z funkcjami i podzia³em na pliki\kalkulator_funkcje_podzial_plików\wczytaj_liczbe.cpp
+	<iostream>
+	<conio.h>
+	"wczytaj_liczbe.h"
+
+1505727224 source:c:\projekty\private workspace codeblocks cpp\moje cwiczenia\6. kalkulator z funkcjami i podzialem na pliki\kalkulator_funkcje_podzial_plikow\main.cpp
+	<iostream>
+	<conio.h>
+	"wczytaj_liczbe.h"
+
+1485818445 c:\projekty\private workspace codeblocks cpp\moje cwiczenia\6. kalkulator z funkcjami i podzialem na pliki\kalkulator_funkcje_podzial_plikow\wczytaj_liczbe.h
+
+1505727180 source:c:\projekty\private workspace codeblocks cpp\moje cwiczenia\6. kalkulator z funkcjami i podzialem na pliki\kalkulator_funkcje_podzial_plikow\wczytaj_liczbe.cpp
+	<iostream>
+	<conio.h>
+	"wczytaj_liczbe.h"
+	<math.h>
+
